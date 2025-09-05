@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w594Mi1fNDk=",
+  "dgSpecHash": "jFPsKnvGt/k=",
   "success": true,
-  "projectFilePath": "C:\\ASP_NET_Projects\\Test_Frontend_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj",
+  "projectFilePath": "C:\\ASP_NET_Projects\\Test_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksander\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "C:\\Users\\Aleksander\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.0\\microsoft.aspnetcore.components.9.0.0.nupkg.sha512",

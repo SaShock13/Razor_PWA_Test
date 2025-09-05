@@ -1,0 +1,16 @@
+**/.git
+**/.gitignore
+**/bin/
+**/obj/
+**/Dockerfile*
+**/docker-compose*
+**/.dockerignore
+**/README.md
+**/.vs
+**/vscode
+**/*.user
+**/*.suo
+**/*.lock
+**/appsettings.*.json
+**/logs/
+**/publish/

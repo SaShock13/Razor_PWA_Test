@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Test_Frontend_Blazor;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
+
+
+
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 

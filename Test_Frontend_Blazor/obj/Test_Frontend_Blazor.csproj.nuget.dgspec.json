@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ASP_NET_Projects\\Test_Frontend_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj": {}
+    "C:\\ASP_NET_Projects\\Test_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj": {}
   },
   "projects": {
-    "C:\\ASP_NET_Projects\\Test_Frontend_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj": {
+    "C:\\ASP_NET_Projects\\Test_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ASP_NET_Projects\\Test_Frontend_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj",
+        "projectUniqueName": "C:\\ASP_NET_Projects\\Test_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj",
         "projectName": "Test_Frontend_Blazor",
-        "projectPath": "C:\\ASP_NET_Projects\\Test_Frontend_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj",
+        "projectPath": "C:\\ASP_NET_Projects\\Test_Blazor\\Test_Frontend_Blazor\\Test_Frontend_Blazor.csproj",
         "packagesPath": "C:\\Users\\Aleksander\\.nuget\\packages\\",
-        "outputPath": "C:\\ASP_NET_Projects\\Test_Frontend_Blazor\\Test_Frontend_Blazor\\obj\\",
+        "outputPath": "C:\\ASP_NET_Projects\\Test_Blazor\\Test_Frontend_Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
